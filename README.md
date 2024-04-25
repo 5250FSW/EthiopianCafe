@@ -1,2 +1,2 @@
-# Ethiopian-Cafe_Pizza
+# Ethiopian-Cafe:
  This is the business website of Ethiopian Cafe!
